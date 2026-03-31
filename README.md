@@ -30,10 +30,15 @@ Dataset
 Uses the classic Fisher Iris Dataset — 150 samples of iris flowers with 4 measured features each (sepal length, sepal width, petal length, petal width). A scatter plot of sepal length vs petal length is generated to explore the data visually.
 
 Getting Started
+
 bashgit clone https://github.com/krishnasheshagirirao07/ML-Fundamentals
+
 cd ML-Fundamentals
+
 pip install numpy matplotlib
+
 jupyter notebook ML-Fundamentals.ipynb
+
 Or open directly in Google Colab — just remember to upload Iris_data.npy to the session files.
 
 Stack
