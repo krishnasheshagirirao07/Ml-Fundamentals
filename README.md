@@ -43,7 +43,7 @@ Or open directly in Google Colab — just remember to upload Iris_data.npy to th
 
 Stack
 
-Python 3
-NumPy
-Matplotlib
+Python 3,
+NumPy,
+Matplotlib,
 Jupyter Notebook
